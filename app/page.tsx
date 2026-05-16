@@ -56,8 +56,8 @@ export default function LandingPageContatos() {
                 <h3 className="text-3xl font-bold text-cyan-300">Olimpíada</h3>
                 <p className="text-slate-300 text-sm">Medalhas</p>
 
-                <h3 className="text-3xl font-bold text-indigo-300">3+</h3>
-                <p className="text-slate-300 text-sm">Graduações</p>
+                <h3 className="text-3xl font-bold text-indigo-300"></h3>
+                <p className="text-slate-300 text-sm"></p>
               </div>
 
               <div className="bg-white/10 backdrop-blur-lg p-4 rounded-2xl border border-white/10 text-center">
@@ -81,8 +81,7 @@ export default function LandingPageContatos() {
  
               <img src="/minha-foto.jpg" alt="Minha Foto"  className="w-20 h-20 rounded-full object-cover"/>
 
-                <div className="w-20 h-20 rounded-full bg-gradient-to-br from-indigo-400 to-pink-500 flex items-center justify-center text-3xl font-black shadow-2xl">
-                  R
+               
  
                 </div>
 
@@ -101,8 +100,6 @@ export default function LandingPageContatos() {
                   <p className="text-sm text-slate-400">E-mail</p>
  
                   <p className="text-lg font-semibold">ravardiero497@gmail.com</p>
-
-                  <p className="text-lg font-semibold">seuemail@email.com</p>
  
                 </div>
 
@@ -121,13 +118,11 @@ export default function LandingPageContatos() {
                   <p className="text-sm text-slate-400">Instagram</p>
                   <p className="text-lg font-semibold">raylla.exatas
 </p>
-
-                  <p className="text-lg font-semibold">github.com/seuusuario</p>
                 </div>
 
                 <div className="bg-slate-900/60 p-5 rounded-2xl border border-slate-700 hover:border-yellow-400 transition-all duration-300 hover:scale-[1.02]">
-                  <p className="text-sm text-slate-400">Cidade</p>
-                  <p className="text-lg font-semibold">Muriaé • Minas Gerais</p>
+                  <p className="text-sm text-slate-400">Brasil</p>
+                  <p className="text-lg font-semibold"></p>
  
                 </div>
               </div>
@@ -142,7 +137,7 @@ export default function LandingPageContatos() {
         </div>
       </div>
 
-    </div>
+
 
   )
 }
