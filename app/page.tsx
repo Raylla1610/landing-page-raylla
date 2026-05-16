@@ -42,6 +42,7 @@ export default function LandingPageContatos() {
 
             <div className="grid grid-cols-3 gap-4 pt-4">
               <div className="bg-white/10 backdrop-blur-lg p-4 rounded-2xl border border-white/10 text-center">
+<<<<<<< HEAD
                 <h3 className="text-3xl font-bold text-indigo-300">Ebook</h3>
                 <p className="text-slate-300 text-sm">Meu ebook</p>
               </div>
@@ -54,6 +55,20 @@ export default function LandingPageContatos() {
               <div className="bg-white/10 backdrop-blur-lg p-4 rounded-2xl border border-white/10 text-center">
                 <h3 className="text-3xl font-bold text-cyan-300">Olimpíada</h3>
                 <p className="text-slate-300 text-sm">Medalhas</p>
+=======
+                <h3 className="text-3xl font-bold text-indigo-300">3+</h3>
+                <p className="text-slate-300 text-sm">Graduações</p>
+              </div>
+
+              <div className="bg-white/10 backdrop-blur-lg p-4 rounded-2xl border border-white/10 text-center">
+                <h3 className="text-3xl font-bold text-pink-300">IA</h3>
+                <p className="text-slate-300 text-sm">Pesquisas</p>
+              </div>
+
+              <div className="bg-white/10 backdrop-blur-lg p-4 rounded-2xl border border-white/10 text-center">
+                <h3 className="text-3xl font-bold text-cyan-300">STEM</h3>
+                <p className="text-slate-300 text-sm">Tecnologia</p>
+>>>>>>> 2653232b4187ad5f9ae1f3a82d0b9c850714baac
               </div>
             </div>
           </div>
@@ -63,7 +78,12 @@ export default function LandingPageContatos() {
 
             <div className="relative z-10">
               <div className="flex items-center gap-4 mb-8">
+<<<<<<< HEAD
               <img src="/minha-foto.jpg" alt="Minha Foto"  className="w-20 h-20 rounded-full object-cover"/>
+=======
+                <div className="w-20 h-20 rounded-full bg-gradient-to-br from-indigo-400 to-pink-500 flex items-center justify-center text-3xl font-black shadow-2xl">
+                  R
+>>>>>>> 2653232b4187ad5f9ae1f3a82d0b9c850714baac
                 </div>
 
                 <div>
@@ -79,7 +99,11 @@ export default function LandingPageContatos() {
               <div className="space-y-5">
                 <div className="bg-slate-900/60 p-5 rounded-2xl border border-slate-700 hover:border-indigo-400 transition-all duration-300 hover:scale-[1.02]">
                   <p className="text-sm text-slate-400">E-mail</p>
+<<<<<<< HEAD
                   <p className="text-lg font-semibold">ravardiero497@gmail.com</p>
+=======
+                  <p className="text-lg font-semibold">seuemail@email.com</p>
+>>>>>>> 2653232b4187ad5f9ae1f3a82d0b9c850714baac
                 </div>
 
                 <div className="bg-slate-900/60 p-5 rounded-2xl border border-slate-700 hover:border-pink-400 transition-all duration-300 hover:scale-[1.02]">
@@ -89,6 +113,7 @@ export default function LandingPageContatos() {
 
                 <div className="bg-slate-900/60 p-5 rounded-2xl border border-slate-700 hover:border-cyan-400 transition-all duration-300 hover:scale-[1.02]">
                   <p className="text-sm text-slate-400">GitHub</p>
+<<<<<<< HEAD
                   <p className="text-lg font-semibold">github.com/Raylla1610</p>
                 </div>
 
@@ -96,6 +121,14 @@ export default function LandingPageContatos() {
                   <p className="text-sm text-slate-400">Instagram</p>
                   <p className="text-lg font-semibold">raylla.exatas
 </p>
+=======
+                  <p className="text-lg font-semibold">github.com/seuusuario</p>
+                </div>
+
+                <div className="bg-slate-900/60 p-5 rounded-2xl border border-slate-700 hover:border-yellow-400 transition-all duration-300 hover:scale-[1.02]">
+                  <p className="text-sm text-slate-400">Cidade</p>
+                  <p className="text-lg font-semibold">Muriaé • Minas Gerais</p>
+>>>>>>> 2653232b4187ad5f9ae1f3a82d0b9c850714baac
                 </div>
               </div>
 
@@ -108,5 +141,9 @@ export default function LandingPageContatos() {
           </div>
         </div>
       </div>
+<<<<<<< HEAD
+=======
+    </div>
+>>>>>>> 2653232b4187ad5f9ae1f3a82d0b9c850714baac
   )
 }
